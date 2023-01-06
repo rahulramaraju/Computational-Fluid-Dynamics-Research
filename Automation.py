@@ -342,8 +342,8 @@ def Main(start_time,end_time,delta_T,nu,alpha,rho,gravity,mask,shape,radius,radi
             SolidDict(gravity,mask,shape,radius,radiusa,radiusb,ratio,tail_thickness,number_of_particles,positions,rho_material,offset)
             if shape != "Circle_Tail":
                 MeshSizes(nx,ny,xmin,xmax,ymin,ymax)
-            #subprocess.run('nohup blockMesh')
-            #subprocess.run('nohup sdfibm &')
+            subprocess.run('nohup blockMesh')
+            subprocess.run('nohup sdfibm &')
     return
 
 """
