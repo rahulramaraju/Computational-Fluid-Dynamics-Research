@@ -14,3 +14,6 @@ Presented at the 15th International Conference on Gas-Liquid-Solid Reactor Engin
 called SDFIBM.
 
 *PostProcessing.py is a python file which always data analysis and graphical representation from fluid probe points in a specific domain in this computational software.
+
+*OpenFoam v6: https://github.com/OpenFOAM/OpenFOAM-6
+*SDFIBM: https://github.com/ChenguangZhang/sdfibm
