@@ -2,6 +2,7 @@
 Computational Fluid Dynamics Research | LSU Cain Department of Chemical Engineering                        June 2020 – Present
 
 Explored Research Problems: 
+
 *“Hydrodynamic Interaction of a Collection of a Periodic Array of Elliptical Particles in Shear Flow with Limited Mobility,” 
 Presented at the 15th International Conference on Gas-Liquid-Solid Reactor Engineering, University of Ottawa (August 2022)
 
